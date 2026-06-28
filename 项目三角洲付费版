@@ -1,7 +1,8 @@
 local p=game:GetService("Players")
 local l=p.LocalPlayer
 local g=l:WaitForChild("PlayerGui")
-local w={"xiaolun19"}
+-- 新增KM4WswDyf7白名单
+local w={"xiaolun19","KM4WswDyf7"}
 
 local function d(s)
     local c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
